@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Live Preview
+Live Preview goes on https://zealous-goldwasser-5e60c7.netlify.app/
 ## Available Scripts
 
 In the project directory, you can run:
